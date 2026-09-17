@@ -21,6 +21,8 @@
 ---
 
 ## 📚 Currently Learning
+- Network security 
 - Advanced Nmap Scanning
 - Web Exploitation Labs
 - Privilege Escalation
+
