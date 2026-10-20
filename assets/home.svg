@@ -1,25 +1,69 @@
 
-<!-- Title -->
-<g class="titleIn" text-anchor="middle"
-   font-family="Arial, Helvetica, sans-serif">
-  <text x="1200" y="650"
-        font-size="76"
-        font-weight="bold"
-        fill="url(#title)"
-        filter="url(#textShadow)">
-    Amos Kimunya
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 960" width="2400" height="960" role="img" aria-label="Amos Kimunya Junior Cybersecurity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11191b"/>
+      <stop offset="55%" stop-color="#080d0f"/>
+      <stop offset="100%" stop-color="#17140d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9b6c22"/>
+      <stop offset="50%" stop-color="#f5d58a"/>
+      <stop offset="100%" stop-color="#b17a28"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#b58a43" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-  <text x="1200" y="730"
-        font-size="42"
-        font-weight="600"
-        letter-spacing="5"
-        fill="#c29a3a">
-    JUNIOR CYBERSECURITY
-  </text>
+  <rect width="2400" height="960" fill="url(#bg)"/>
+  <rect width="2400" height="960" fill="url(#grid)"/>
 
-  <line x1="900" y1="790" x2="1500" y2="790"
-        stroke="#F59E0B"
-        stroke-opacity="0.65"
-        stroke-width="3"/>
-</g>
+  <g fill="none" stroke="#c69a4c" stroke-width="2" opacity=".65">
+    <path d="M0 150H230L275 195H460"/>
+    <path d="M0 180H190L225 215H355"/>
+    <path d="M2400 150H2170L2125 195H1940"/>
+    <path d="M2400 180H2210L2175 215H2045"/>
+    <path d="M0 770H220L270 720H430"/>
+    <path d="M2400 770H2180L2130 720H1970"/>
+  </g>
+
+  <g fill="#d4ad63" opacity=".8">
+    <circle cx="230" cy="150" r="5"/>
+    <circle cx="2170" cy="150" r="5"/>
+    <circle cx="220" cy="770" r="5"/>
+    <circle cx="2180" cy="770" r="5"/>
+  </g>
+
+  <g transform="translate(1200 260)" fill="none" stroke="url(#gold)" filter="url(#glow)">
+    <path d="M0 -105L95 -65V10C95 78 48 120 0 145C-48 120 -95 78 -95 10V-65Z" stroke-width="5"/>
+    <path d="M0 -68L58 -43V10C58 51 32 79 0 98C-32 79 -58 51 -58 10V-43Z" stroke-width="3" opacity=".75"/>
+    <path d="M-29 3L-7 25L35 -24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif">
+    <text x="1200" y="520" fill="#f4e7c8" font-size="104" font-weight="700" letter-spacing="5">AMOS KIMUNYA</text>
+    <rect x="650" y="557" width="1100" height="4" rx="2" fill="url(#gold)"/>
+    <text x="1200" y="640" fill="url(#gold)" font-size="54" font-weight="600" letter-spacing="13">JUNIOR CYBERSECURITY</text>
+    <text x="1200" y="705" fill="#aab4b2" font-size="25" letter-spacing="6">NETWORK SECURITY • HANDS-ON LABS • DEFENSIVE SECURITY</text>
+  </g>
+
+  <g font-family="monospace" font-size="18" fill="#c49a50" opacity=".8">
+    <text x="90" y="75">SECURITY // PORTFOLIO</text>
+    <text x="90" y="105">STATUS: LEARNING &amp; BUILDING</text>
+    <text x="2310" y="75" text-anchor="end">NETWORK DEFENSE</text>
+    <text x="2310" y="105" text-anchor="end">ACCESS CONTROL // MONITORING</text>
+    <text x="90" y="890">[ SYSTEMS ]</text>
+    <text x="2310" y="890" text-anchor="end">[ SECURITY RESEARCH ]</text>
+  </g>
+
+  <path d="M90 825H2310" stroke="#b58a43" stroke-opacity=".4" stroke-width="2"/>
+  <text x="1200" y="875" fill="#788583" font-family="monospace" font-size="18" text-anchor="middle" letter-spacing="4">LEARN • TEST • DOCUMENT • HARDEN</text>
+</svg>
