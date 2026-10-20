@@ -38,4 +38,3 @@ Cybersecurity essential by Cisco
 
 
 
-[![linkdeln](https://img.shields.io/badge/www.linkedin.com/in/amos-kimunya-4287543bb-brightgreen.svg?maxAge=259200)]()
