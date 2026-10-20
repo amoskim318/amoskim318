@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amos</h1>
 <img src="https://raw.githubusercontent.com/amoskim318/amoskim318/refs/heads/main/assets/home.svg" width="1000">
-### 🚀 About Me
+
+## 🚀 About Me
 
 - 💻 Cybersecurity Learner
 - 🛡️ Bug Bounty Hunter
