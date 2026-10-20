@@ -33,5 +33,13 @@
 - Web Exploitation Labs
 - Privilege Escalation
 
-##Certuficatiom 
+## Certuficatiom 
 Cybersecurity essential by Cisco 
+
+
+
+[![linkdeln](https://img.shields.io/badge/https://www.linkedin.com/in/amos-kimunya-4287543bb-brightgreen.svg?maxAge=259200)]()
+[![Facebook](https://img.shields.io/badge/https://www.facebook.com/profile.php?id=61591694542061-red.svg?maxAge=259200)]()
+[![Whatsapp](https://img.shields.io/badge/@Amo_Kim-brightgreen.svg)]()
+[![Documentation](https://img.shields.io/badge/https://github.com/amoskim318/Wireless_Security_Testing_And_Hardening/wiki-blue.svg?maxAge=259200)](https://github.com/ManhNho/CEHv10/tree/master/Slides)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
