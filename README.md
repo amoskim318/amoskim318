@@ -17,6 +17,11 @@
 - 🐞 Bug Hunting
 - 🌐 Web Exploitation
 - 🐧 Kali Linux
+- VLAN configuration
+- Active Directory management
+- Network security hardening
+- Wireless security Testing
+- Malware analysis 
 
 ---
 
