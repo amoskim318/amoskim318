@@ -43,7 +43,7 @@
 
 ### Build things. Ship them. Let real users decide.
 
-**Network Penetration Testing  · AI Automation · Malware analyst · Linux Automation · ETH · Android Pentester **
+**Network Penetration Testing  · AI Automation · Malware analyst · Linux Automation · ETH · Android Pentester**
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/amos-kimunya-4287543bb/" target="_blank">
