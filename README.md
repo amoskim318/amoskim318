@@ -58,7 +58,10 @@
   <a href="https://www.youtube.com/@AmosKimunya028" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
- 
+
+  <a href="https://amoskim318.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-00FF00?style=for-the-badge&logo=googlechrome&logoColor=00FF00&labelColor=101010" height="25" alt="Portfolio website" />
+  </a>
 </div>
 <div align="center">
         
